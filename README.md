@@ -1,0 +1,2 @@
+# text-resun
+both
